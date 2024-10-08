@@ -37,7 +37,7 @@ function Home2() {
               <br />
               <br />
               Apart from databases, I’m proficient in Full Stack Development, utilizing backend frameworks such
-              as <b className="purple">Flask, Spring Boot, MVC.NET</b> and frontend technologies like
+              as <b className="purple">Flask, Spring Boot</b> and frontend technologies like
               <i>
                 <b className="purple">
                   {" "}
