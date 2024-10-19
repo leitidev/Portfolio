@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.d1b9cf64.css",
-    "main.js": "/Portfolio/static/js/main.1b5d92a3.js",
+    "main.js": "/Portfolio/static/js/main.b26fa65f.js",
     "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/CV_LEONARDO_DEV.pdf": "/Portfolio/static/media/CV_LEONARDO_DEV.1a16be1f5e810894ec0e.pdf",
     "static/media/data.png": "/Portfolio/static/media/data.dccb7dffea73aac75ee1.png",
     "static/media/lung.png": "/Portfolio/static/media/lung.920623c40f02a4e3d733.png",
+    "static/media/triage.jpg": "/Portfolio/static/media/triage.4df0a96684bb85309573.jpg",
     "static/media/home-main.svg": "/Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/logo.png": "/Portfolio/static/media/logo.b69f8b6eb91d9ad9082c.png",
@@ -15,12 +16,12 @@
     "static/media/pre.svg": "/Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Portfolio/index.html",
     "main.d1b9cf64.css.map": "/Portfolio/static/css/main.d1b9cf64.css.map",
-    "main.1b5d92a3.js.map": "/Portfolio/static/js/main.1b5d92a3.js.map",
+    "main.b26fa65f.js.map": "/Portfolio/static/js/main.b26fa65f.js.map",
     "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1b9cf64.css",
-    "static/js/main.1b5d92a3.js"
+    "static/js/main.b26fa65f.js"
   ]
 }
