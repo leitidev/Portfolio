@@ -4,6 +4,7 @@ import lung from "../../Assets/Projects/lung.png";
 import data from "../../Assets/Projects/data.png";
 import Particle from "../Particle";
 import ProjectCard from "./ProjectCards";
+import triage from "../../Assets/Projects/triage.jpg";
 
 function Projects() {
   return (
@@ -45,6 +46,17 @@ function Projects() {
               description="
 This project is a relational database for managing event participation, tracking participants and events efficiently. It features participant and event management, auditing, and trigger-based logging to ensure data integrity."
               ghLink="https://github.com/leitidev/database-management-system"
+            /*demoLink="https://plant49-ai.herokuapp.com/"*/
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={triage}
+              isBlog={false}
+              title="AI-Powered Hospital Triage System"
+              description="The project focuses on improving triage in hospitals using artificial intelligence and deep analytics, specifically aimed at optimizing hospital resource allocation and improving patient outcomes."
+              ghLink="https://github.com/leitidev/ai-powered-hospital-triage-system"
             /*demoLink="https://plant49-ai.herokuapp.com/"*/
             />
           </Col>
